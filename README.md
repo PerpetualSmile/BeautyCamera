@@ -1,6 +1,15 @@
 # BeautyCamera（PyQt5+python-opencv+matplotlib）
+![](https://raw.githubusercontent.com/PerpetualSmile/picture/master/BeautyCamera.png)
+
+![](https://raw.githubusercontent.com/PerpetualSmile/picture/master/BeautyCamera_1.png)
+
+![](https://raw.githubusercontent.com/PerpetualSmile/picture/master/BeautyCamera_2.png)
+
+![](https://raw.githubusercontent.com/PerpetualSmile/picture/master/BeautyCamera_3.png)
+
+
 ## 打开图片
-- 我们设计的美颜相机demo既可以处理已有的图片，也可以用本程序打开电脑的摄像头进行拍摄，相关选项在文件菜单下有，也可以使用快捷键crtl+o打开图片。
+- 美颜相机demo既可以处理已有的图片，也可以用本程序打开电脑的摄像头进行拍摄，相关选项在文件菜单下有，也可以使用快捷键crtl+o打开图片。
 ## 拍摄照片
 - 在文件菜单下有打开摄像头选项，点击可以跳出摄像窗口，再点击弹窗中的打开摄像头按钮可以开启摄像头，选好景之后点击拍摄按钮可以将图片显示在主窗口进行各种处理。
 ## 处理照片
