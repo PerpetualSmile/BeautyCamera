@@ -1,11 +1,11 @@
 # BeautyCamera（PyQt5+python-opencv+matplotlib）
-![](https://raw.githubusercontent.com/PerpetualSmile/picture/master/BeautyCamera.png)
+![](https://raw.githubusercontent.com/PerpetualSmile/picture/master/BeautyCamera/BeautyCamera.png)
 
-![](https://raw.githubusercontent.com/PerpetualSmile/picture/master/BeautyCamera_1.png)
+![](https://raw.githubusercontent.com/PerpetualSmile/picture/master/BeautyCamera/BeautyCamera_1.png)
 
-![](https://raw.githubusercontent.com/PerpetualSmile/picture/master/BeautyCamera_2.png)
+![](https://raw.githubusercontent.com/PerpetualSmile/picture/master/BeautyCamera/BeautyCamera_2.png)
 
-![](https://raw.githubusercontent.com/PerpetualSmile/picture/master/BeautyCamera_3.png)
+![](https://raw.githubusercontent.com/PerpetualSmile/picture/master/BeautyCamera/BeautyCamera_3.png)
 
 
 ## 打开图片
